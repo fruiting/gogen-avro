@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/actgardner/gogen-avro/v10/example/avro"
-	"github.com/actgardner/gogen-avro/v10/soe"
+	"github.com/fruiting/gogen-avro/v10/example/avro"
+	"github.com/fruiting/gogen-avro/v10/soe"
 )
 
 func main() {
