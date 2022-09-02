@@ -3,9 +3,9 @@ package avro_benchmarks
 import (
 	"bytes"
 
-	"github.com/actgardner/gogen-avro/v10/compiler"
-	"github.com/actgardner/gogen-avro/v10/test/benchmark/models"
-	"github.com/actgardner/gogen-avro/v10/vm"
+	"github.com/fruiting/gogen-avro/v10/compiler"
+	"github.com/fruiting/gogen-avro/v10/test/benchmark/models"
+	"github.com/fruiting/gogen-avro/v10/vm"
 	"github.com/stretchr/testify/assert"
 )
 

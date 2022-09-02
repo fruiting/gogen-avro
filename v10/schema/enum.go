@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/actgardner/gogen-avro/v10/generator"
+	"github.com/fruiting/gogen-avro/v10/generator"
 )
 
 type EnumDefinition struct {
